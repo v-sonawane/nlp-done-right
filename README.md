@@ -21,6 +21,12 @@ I promise you have not thought of it this way!
     <tr>
         <td align="center"><a href="https://phontron.com/class/anlp2024/schedule/">Carnegie Mellon: Advanced NLP</a></td>
     </tr>
+     <tr>
+        <td align="center"><a href="https://web.stanford.edu/class/cs224n/index.html#schedule">Stanford: CS224N NLP</a></td>
+    </tr>
+      <tr>
+        <td align="center"><a href="https://web.stanford.edu/class/cs224u/2022/">Stanford: CS224U NLU</a></td>
+    </tr>
      
 </table>
 
